@@ -25,7 +25,8 @@ p {
 
 img {
     width: 250px;
-    text-align: center;
+    display: block;
+    margin: auto;
     border: 10px;
     border-color: #FFFFFF;
     border-style: dashed;
@@ -44,7 +45,7 @@ div {
     line-height: 2;
 }
 
-.red-div {
+.red {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
@@ -52,7 +53,7 @@ div {
     border-left: 5px;
 }
 
-.blue-div {
+.blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
@@ -60,11 +61,11 @@ div {
     border-top: 2px;
 }
 
-.blue-div p, h2 {
+.blue p, h2 {
   color: #C4C4C4;
 }
 
-.yellow-div {
+.yellow {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
@@ -72,11 +73,11 @@ div {
     border-left: 5px;
 }
 
-.yellow-div p {
+.yellow p {
     color: #707070;
 }
 
-.green-div {
+.green {
     background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
