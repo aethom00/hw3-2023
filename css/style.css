@@ -20,7 +20,7 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 0px 0px 10px;
+    padding: 10px 0 0 10px;
 }
 
 img {
@@ -50,14 +50,14 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px solid;
+    border: 0 0 2px 5px solid;
 }
 
 .blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px solid;
+    border: 2px 5px 0 0 solid;
 }
 
 .blue p {
@@ -72,7 +72,7 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px solid;
+    border: 0 0 2px 5px solid;
 }
 
 .yellow p {
@@ -83,7 +83,7 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px solid;
+    border: 2px 5px 0 0 solid;
 }
 
 footer {
@@ -96,5 +96,5 @@ footer {
 footer p {
     text-align: right;
     font-size: 20px;
-    padding: 15px 15px 15px 0px solid;
+    padding: 15px 15px 15px 0 solid;
 }
