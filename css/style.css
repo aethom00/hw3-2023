@@ -91,7 +91,7 @@ div {
 }
 
 footer {
-    background: linear-gradient(to bottom, #000000, #0000ff 25%, #0066ff 70%, #000000);
+    background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
     border: 5px;
     border-style: solid;
     border-color: #FFFFFF;
