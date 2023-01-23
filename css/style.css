@@ -28,14 +28,15 @@ img {
     display: block;
     margin: auto;
     border: 10px;
-    border-color: #FFFFFF;
     border-style: dashed;
+    border-color: #FFFFFF;
 }
 
 div {
     min-height: 125px;
     padding: 20px;
     border: 3px;
+    border-style: solid;
     border-color: #FFFFFF;
 }
 
@@ -61,9 +62,13 @@ div {
     border-top: 2px;
 }
 
-.blue p, h2 {
+.blue p {
   color: #C4C4C4;
 }
+
+.blue h2 {
+    color: #C4C4C4;
+  }
 
 .yellow {
     background-color: #FFFF00;
@@ -88,6 +93,7 @@ div {
 footer {
     background: linear-gradient(to bottom, #000000, #0000ff 25%, #0066ff 70%, #000000);
     border: 5px;
+    border-style: solid;
     border-color: #FFFFFF;
 }
 
